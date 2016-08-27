@@ -1,4 +1,3 @@
-layout_spectrum: 0.6626404395792633
 typography_spectrum: 0.3488880281802267
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.6626404395792633
 analytics:
   google: null
   facebook: null
@@ -28,6 +28,6 @@ cta:
   bucket: null
   version: null
 favicon: null
-title: Welcome to my new site
+title: ''
 description: it's awesome
 purpose: []
