@@ -4,7 +4,7 @@
         <description><![CDATA[Welcome to my new site]]></description>
         <link>https://thegrid.ai/theblogofcam/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 08:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 08:53:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/theblogofcam/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Key & Peele - Continental Breakfast]]></title>
@@ -12,13 +12,6 @@
             <link>https://youtu.be/st21dIMaGMs</link>
             <guid isPermaLink="false">e8592ceb-3898-4619-8867-25f79856e4e5</guid>
             <pubDate>Sat, 27 Aug 2016 08:52:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yacht Rock - YouTube]]></title>
-            <description><![CDATA[<article><h1>Yacht Rock - YouTube</h1><p>Full Series in HD</p></article>]]></description>
-            <link>https://www.youtube.com/playlist?list=PL10CF667591857A2D</link>
-            <guid isPermaLink="false">2e9666ff-a93a-46ea-9d7a-1091b3753842</guid>
-            <pubDate>Sat, 27 Aug 2016 08:52:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
