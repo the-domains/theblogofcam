@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Cam
+  email: cam@cam.org.uk
 name: TheBlogOfCam
 cta:
   domain: null
