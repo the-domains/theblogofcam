@@ -1,19 +1,4 @@
-name: TheBlogOfCam
-favicon: null
-layout_spectrum: 0.144701327662915
-typography_spectrum: 0.9841507135424763
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.3488880281802267
 color:
   brandColors:
     - '#3C493F'
@@ -25,4 +10,24 @@ color:
   lightness: 0.5974820877891034
   saturation: 0.49424989707767963
   rhythmicContrast: 0.4456598265096545
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6626404395792633
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Cam
+  email: cam@cam.org.uk
+name: TheBlogOfCam
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: ''
+description: ''
 purpose: []
