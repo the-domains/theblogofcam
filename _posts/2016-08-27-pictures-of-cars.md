@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-27T23:00:00.947Z'
+datePublished: '2016-08-27T22:59:55.274Z'
 sourcePath: _posts/2016-08-27-pictures-of-cars.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T23:00:00.456Z'
+dateModified: '2016-08-27T22:59:49.998Z'
 title: Pictures of Cars!
 publisher: {}
 description: ''
