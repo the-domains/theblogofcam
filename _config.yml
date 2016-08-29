@@ -27,6 +27,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Pictures of Cars!
+    id: dc0e33a1-7afc-4e38-8674-75f6acb41780
+    type: content
 favicon: null
 title: ''
 description: ''
