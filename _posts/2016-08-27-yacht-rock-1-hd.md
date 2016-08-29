@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-27T22:43:41.981Z'
+datePublished: '2016-08-27T23:01:39.290Z'
 sourcePath: _posts/2016-08-27-yacht-rock-1-hd.md
 isBasedOnUrl: 'https://youtu.be/YNTARSM-Fjc?list=PL10CF667591857A2D'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-27T22:43:41.586Z'
+dateModified: '2016-08-27T23:01:38.954Z'
 title: ''
 app_links:
   - url: >-
